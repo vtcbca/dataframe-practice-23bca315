@@ -1,0 +1,9 @@
+Peform Following task. If any problem communicate with other student using issue tab in GitHub.
+
+1. Create a result table which contain student id, student name and 5 subject marks. Perform from sqlite3
+
+2. Enter 10 studnet details with its marks from sqlite3 directly.
+
+3. Dump table into csv file "result.csv".
+
+4. Read result.csv file and calculate Total Marks, percentage and write it into marksheet.csv file using reader and writer class.

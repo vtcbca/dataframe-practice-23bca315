@@ -1,0 +1,18 @@
+Create csv file cricketer(cid, cname, country, match, run) using reader writer object and insert 15 players records.
+Perform following.
+1. Create dataframe from csv file.
+2. Print all records.
+3. Print only first 5 records.
+4. Print only last 5 records.
+5. Print records from records number 8.
+6. Change index numbering. start from 100.
+7. Add New column "Average" with average value and print all records.
+8. Print only Cname.
+9. Print Cricketer Name and its Average.
+10. Change column name with "Cid, Cricketer_Name, Match, Run, Average".
+11. Print those record where cricker play match > 25.
+12. Print those record where cricker play match > 25 and country is "India".
+13. Print all those records whose crickert average is more than 30.
+14. Print only crickert name whose average > 30.
+15. Print cricket name and country whose average > 30.
+Print player records with average.  and write this data into player.csv file. Do all this task from python. 
